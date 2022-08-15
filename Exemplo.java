@@ -1,3 +1,3 @@
 class Exemplo {
-   private String sobrenome;
+   private String apelido;
 }
